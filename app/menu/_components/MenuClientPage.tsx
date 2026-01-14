@@ -26,7 +26,7 @@ export function MenuClientPage() {
         <div className="max-w-4xl mx-auto px-4">
           <div className="relative aspect-[16/9] md:aspect-[21/9] mb-12 md:mb-16 rounded overflow-hidden">
             <Image
-              src="/dinner.JPG"
+              src="/dinner.jpg"
               alt="Baroque le Bistrot Bar"
               fill
               className="object-cover"

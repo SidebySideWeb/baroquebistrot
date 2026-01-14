@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/dinner.JPG",
+        url: "/dinner.jpg",
         width: 1200,
         height: 630,
         alt: "Baroque le Bistrot Menu - Brunch, Dinner & Cocktails",
