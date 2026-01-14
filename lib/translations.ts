@@ -402,7 +402,7 @@ export const translations = {
       phoneLabel: "Τηλέφωνο",
       emailLabel: "Email",
       hours: "Ωράριο",
-      hoursValue: "Δευτέρα - Κυριακή: 9:00 - 02:00",
+      hoursValue: "Δευτέρα - Κυριακή: 9:00 AM - 02:00 AM\nΣαββάτο - Κυριακή: 9:00 AM - 3:00 AM",
     },
     footer: {
       description: "All day bar, restaurant και bistrot στην καρδιά του Αργοστολίου.",
@@ -828,7 +828,7 @@ export const translations = {
       phoneLabel: "Phone",
       emailLabel: "Email",
       hours: "Hours",
-      hoursValue: "Monday - Sunday: 9:00 AM - 2:00 AM",
+      hoursValue: "Monday - Friday: 8:00 AM - 3:00 AM\nSaturday - Sunday: 9:00 AM - 3:00 AM",
     },
     footer: {
       description: "All day bar, restaurant and bistrot in the heart of Argostóli.",

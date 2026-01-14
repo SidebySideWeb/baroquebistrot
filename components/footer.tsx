@@ -50,7 +50,7 @@ export function Footer() {
               </div>
               <div className="flex items-start gap-3">
                 <Clock size={18} className="mt-0.5 flex-shrink-0" />
-                <p className="font-light">{contact.hoursValue}</p>
+                <p className="font-light whitespace-pre-line">{contact.hoursValue}</p>
               </div>
             </div>
           </div>

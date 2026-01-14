@@ -61,7 +61,7 @@ export default function ContactClientPage() {
                     <Clock size={24} className="mt-1 flex-shrink-0 text-accent" />
                     <div>
                       <h3 className="text-lg font-medium mb-2">{t.hours}</h3>
-                      <p className="text-muted-foreground font-light">{t.hoursValue}</p>
+                      <p className="text-muted-foreground font-light whitespace-pre-line">{t.hoursValue}</p>
                     </div>
                   </div>
 
