@@ -402,7 +402,7 @@ export const translations = {
       phoneLabel: "Τηλέφωνο",
       emailLabel: "Email",
       hours: "Ωράριο",
-      hoursValue: "Δευτέρα - Κυριακή: 9:00 AM - 02:00 AM\nΣαββάτο - Κυριακή: 9:00 AM - 3:00 AM",
+      hoursValue: "Δευτέρα - Παρασκευή: 9:00 AM - 02:00 AM\nΣαββάτο - Κυριακή: 9:00 AM - 3:00 AM",
     },
     footer: {
       description: "All day bar, restaurant και bistrot στην καρδιά του Αργοστολίου.",
