@@ -73,7 +73,7 @@ export default function HomePage() {
               <Image src="/QANO0264.PNG" alt="Signature Cocktails" fill className="object-cover rounded" />
             </div>
             <div className="relative aspect-[3/4]">
-              <Image src="/UMZY5246.png" alt="Refreshing Drinks" fill className="object-cover rounded" />
+              <Image src="/UMZY5246.PNG" alt="Refreshing Drinks" fill className="object-cover rounded" />
             </div>
           </div>
         </div>

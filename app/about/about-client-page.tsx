@@ -80,10 +80,10 @@ export default function AboutClientPage() {
                 <Image src="/IMG_0337.JPG" alt="Signature Cocktails" fill className="object-cover rounded" />
               </div>
               <div className="relative aspect-square">
-                <Image src="/IMG_5717.jpg" alt="Coffee at Baroque" fill className="object-cover rounded" />
+                <Image src="/IMG_5717.JPG" alt="Coffee at Baroque" fill className="object-cover rounded" />
               </div>
               <div className="relative aspect-square">
-                <Image src="/IMG_5669.jpg" alt="Bar at Baroque" fill className="object-cover rounded" />
+                <Image src="/IMG_5669.JPG" alt="Bar at Baroque" fill className="object-cover rounded" />
               </div>
             </div>
           </div>
