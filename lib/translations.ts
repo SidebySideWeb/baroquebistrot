@@ -405,7 +405,7 @@ export const translations = {
       hoursValue: "Δευτέρα - Κυριακή: 9:00 - 02:00",
     },
     footer: {
-      description: "All day bar, restaurant και bistrot στην καρδιάς του Αργοστολίου.",
+      description: "All day bar, restaurant και bistrot στην καρδιά του Αργοστολίου.",
       quickLinks: "Σύνδεσμοι",
       contact: "Επικοινωνία",
       address: "Βαλλιανού 3, 28100 Αργοστόλι, Ελλάδα",

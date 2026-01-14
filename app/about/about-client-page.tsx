@@ -74,10 +74,10 @@ export default function AboutClientPage() {
 
             <div className="grid grid-cols-2 gap-4">
               <div className="relative aspect-square">
-                <Image src="/IMG_6828.jpg" alt="Brunch at Baroque" fill className="object-cover rounded" />
+                <Image src="/IMG_6828.JPG" alt="Brunch at Baroque" fill className="object-cover rounded" />
               </div>
               <div className="relative aspect-square">
-                <Image src="/IMG_0337.jpg" alt="Signature Cocktails" fill className="object-cover rounded" />
+                <Image src="/IMG_0337.JPG" alt="Signature Cocktails" fill className="object-cover rounded" />
               </div>
               <div className="relative aspect-square">
                 <Image src="/IMG_5717.jpg" alt="Coffee at Baroque" fill className="object-cover rounded" />

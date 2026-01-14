@@ -67,10 +67,10 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4">
           <div className="grid md:grid-cols-3 gap-8">
             <div className="relative aspect-[3/4]">
-              <Image src="/DKQR3090.png" alt="Brunch at Baroque" fill className="object-cover rounded" />
+              <Image src="/DKQR3090.PNG" alt="Brunch at Baroque" fill className="object-cover rounded" />
             </div>
             <div className="relative aspect-[3/4]">
-              <Image src="/QANO0264.png" alt="Signature Cocktails" fill className="object-cover rounded" />
+              <Image src="/QANO0264.PNG" alt="Signature Cocktails" fill className="object-cover rounded" />
             </div>
             <div className="relative aspect-[3/4]">
               <Image src="/UMZY5246.png" alt="Refreshing Drinks" fill className="object-cover rounded" />
