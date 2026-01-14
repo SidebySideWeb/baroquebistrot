@@ -26,25 +26,26 @@ const notoSans = Noto_Sans({
 export const metadata: Metadata = {
   metadataBase: new URL("https://baroquelebistrot.gr"),
   title: {
-    default: "Baroque le Bistrot | All Day Bar & Restaurant στην Αθήνα",
+    default: "Baroque le Bistrot | All Day Bar & Restaurant στο Αργοστόλι",
     template: "%s | Baroque le Bistrot",
   },
   description:
-    "Baroque le Bistrot - All day bar, bistrot και restaurant στην Αθήνα. Brunch, dinner και cocktails σε έναν σύγχρονο χώρο με ποιοτικές πρώτες ύλες και αυθεντική φιλοξενία. Κράτηση στο +30 26710 27040.",
+    "Baroque le Bistrot - All day bar, restaurant και bistrot στην καρδιά του Αργοστολίου. Brunch, dinner και cocktails σε έναν σύγχρονο χώρο με ποιοτικές πρώτες ύλες και αυθεντική φιλοξενία. Κράτηση στο +30 2671 022809.",
   keywords: [
-    "all day bar Αθήνα",
-    "bistrot Αθήνα",
-    "restaurant Αθήνα",
-    "brunch Αθήνα",
-    "cocktail bar Αθήνα",
+    "all day bar Αργοστόλι",
+    "bistrot Αργοστόλι",
+    "restaurant Αργοστόλι",
+    "brunch Αργοστόλι",
+    "cocktail bar Αργοστόλι",
     "Baroque le Bistrot",
     "all day bar",
     "bistrot",
     "restaurant",
     "brunch",
     "cocktail bar",
-    "Athens restaurant",
-    "Solomou 15",
+    "Argostoli restaurant",
+    "Βαλλιανού 3",
+    "Κεφαλονιά",
   ],
   authors: [{ name: "Baroque le Bistrot" }],
   creator: "Baroque le Bistrot",
@@ -59,9 +60,9 @@ export const metadata: Metadata = {
     locale: "el_GR",
     url: "https://baroquelebistrot.gr",
     siteName: "Baroque le Bistrot",
-    title: "Baroque le Bistrot | All Day Bar & Restaurant στην Αθήνα",
+    title: "Baroque le Bistrot | All Day Bar & Restaurant στο Αργοστόλι",
     description:
-      "All day bar, bistrot και restaurant στην Αθήνα. Brunch, dinner και cocktails σε σύγχρονο χώρο με ποιοτικές πρώτες ύλες.",
+      "All day bar, restaurant και bistrot στην καρδιά του Αργοστολίου. Brunch, dinner και cocktails σε σύγχρονο χώρο με ποιοτικές πρώτες ύλες.",
     images: [
       {
         url: "/bar-interior.jpg",
@@ -73,9 +74,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Baroque le Bistrot | All Day Bar & Restaurant στην Αθήνα",
+    title: "Baroque le Bistrot | All Day Bar & Restaurant στο Αργοστόλι",
     description:
-      "All day bar, bistrot και restaurant στην Αθήνα. Brunch, dinner και cocktails.",
+      "All day bar, restaurant και bistrot στην καρδιά του Αργοστολίου. Brunch, dinner και cocktails.",
     images: ["/bar-interior.jpg"],
   },
   robots: {

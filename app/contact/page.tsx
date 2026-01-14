@@ -2,13 +2,13 @@ import type { Metadata } from "next"
 import ContactClientPage from "./contact-client-page"
 
 export const metadata: Metadata = {
-  title: "Επικοινωνία & Κράτηση | All Day Bar & Restaurant στην Αθήνα",
+  title: "Επικοινωνία & Κράτηση | All Day Bar & Restaurant στο Αργοστόλι",
   description:
-    "Κάντε κράτηση στο Baroque le Bistrot. All day bar, bistrot και restaurant στην Αθήνα, Solomou 15. Τηλέφωνο: +30 26710 27040. Ανοιχτά κάθε μέρα 9:00 - 2:00.",
+    "Κάντε κράτηση στο Baroque le Bistrot. All day bar, restaurant και bistrot στην καρδιά του Αργοστολίου, Βαλλιανού 3. Τηλέφωνο: +30 2671 022809. Ανοιχτά κάθε μέρα 9:00 - 2:00.",
   openGraph: {
-    title: "Επικοινωνία & Κράτηση | Baroque le Bistrot - All Day Bar & Restaurant στην Αθήνα",
+    title: "Επικοινωνία & Κράτηση | Baroque le Bistrot - All Day Bar & Restaurant στο Αργοστόλι",
     description:
-      "Κάντε κράτηση στο Baroque le Bistrot. All day bar, bistrot και restaurant στην Αθήνα, Solomou 15. +30 26710 27040.",
+      "Κάντε κράτηση στο Baroque le Bistrot. All day bar, restaurant και bistrot στην καρδιά του Αργοστολίου, Βαλλιανού 3. +30 2671 022809.",
     type: "website",
     images: [
       {
